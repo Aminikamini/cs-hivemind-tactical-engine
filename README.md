@@ -29,3 +29,6 @@ Language: Python 3
 Data Libraries: NumPy, Pandas, Matplotlib
 
 Core Frameworks: PyTorch, Docker for Headless Server Environments
+
+
+![Map](spatial_density_map.png)
